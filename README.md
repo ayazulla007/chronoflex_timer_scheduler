@@ -271,7 +271,7 @@ end generate TIMER_MANAGER;
 7. The waveform of testcase s7: (8 timers set; 0th timeout; 0th set; 1st set (replace); timeout in this fashion (7, 5, 4, 3, 2); set (2, 3, 4); timeout (simultaneous: 0, 1, 2, 3, 4), Replace the LRU and simultaneous output) ![diagram](test/waveforms/s7.png)
 
 
-For full source code, contact me at [LinkedIn](https://www.linkedin.com/in/ayazullakhan/) or [email](ak.ayazulla@gmail.com).
+For full source code, contact me at [LinkedIn](https://www.linkedin.com/in/ayazullakhan/) or email: ak.ayazulla@gmail.com
 
 
 
